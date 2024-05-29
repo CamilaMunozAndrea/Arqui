@@ -10,9 +10,9 @@ Este proyecto es una aplicacion de consola para la gestión de citas medicas. Pe
     ```
 ## Estructura del Proyecto
 El proyecto se organiza en una arquitectura de 3 capas:
-**Capa de Presentación:** Interactúa con el usuario a través de la terminal ademas contiene la clase Main.
-**Capa de Lógica de Negocio:** Contiene la lógica de negocio y la gestión de las citas médicas, contiene las clases HistorialMedico y las interfaces y clases relacionadas con el patrón Observer.
-**Capa de Acceso a Datos:** Gestiona la comunicacion y el almacenamiento de datos, contiene la clase BaseDeDatos.
+- **Capa de Presentación:** Interactúa con el usuario a través de la terminal ademas contiene la clase Main.
+- **Capa de Lógica de Negocio:** Contiene la lógica de negocio y la gestión de las citas médicas, contiene las clases HistorialMedico y las interfaces y clases relacionadas con el patrón Observer.
+- **Capa de Acceso a Datos:** Gestiona la comunicacion y el almacenamiento de datos, contiene la clase BaseDeDatos.
 
 ## Principios SOLID Aplicados
 
