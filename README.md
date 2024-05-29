@@ -4,7 +4,7 @@ Este proyecto es una aplicacion de consola para la gestión de citas medicas. Pe
 - **Tecnologias:** Java
 - **Requisitos Previos:** Debemos tener instalados Java Development Kit (JDK) y BlueJ
 - **Enlace del repositorio:** [Repositorio](https://github.com/CamilaMunozAndrea/Arqui.git)
-- **Clone el repositorio:**
+- **Clone el repositorio para su uso:**
     ```
     git clone https://github.com/CamilaMunozAndrea/Arqui.git
     ```
