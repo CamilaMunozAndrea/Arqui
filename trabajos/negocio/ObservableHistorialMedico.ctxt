@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=ObservableHistorialMedico
+comment1.params=
+comment1.target=ObservableHistorialMedico()
+comment2.params=observador
+comment2.target=void\ agregarObservador(Observer)
+comment3.params=observador
+comment3.target=void\ eliminarObservador(Observer)
+comment4.params=mensaje
+comment4.target=void\ notificarObservadores(java.lang.String)
+numComments=5

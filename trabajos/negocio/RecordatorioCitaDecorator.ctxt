@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=RecordatorioCitaDecorator
+comment1.params=cita
+comment1.target=RecordatorioCitaDecorator(datos.Cita)
+comment2.params=
+comment2.target=java.lang.String\ obtenerDescripcion()
+numComments=3

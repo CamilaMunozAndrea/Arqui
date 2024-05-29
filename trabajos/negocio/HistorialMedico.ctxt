@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=HistorialMedico
+comment1.params=
+comment1.target=HistorialMedico()
+comment2.params=
+comment2.target=HistorialMedico\ obtenerInstancia()
+comment3.params=doctor\ paciente\ fecha\ hora
+comment3.target=void\ agendarCita(datos.Doctor,\ datos.Paciente,\ java.lang.String,\ java.lang.String)
+comment4.params=
+comment4.target=void\ verCitas()
+numComments=5

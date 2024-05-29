@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=BaseDeDatos
+comment1.params=
+comment1.target=BaseDeDatos()
+comment2.params=
+comment2.target=BaseDeDatos\ obtenerInstancia()
+comment3.params=paciente
+comment3.target=void\ agregarPaciente(Paciente)
+comment4.params=doctor
+comment4.target=void\ agregarDoctor(Doctor)
+comment5.params=cita
+comment5.target=void\ agregarCita(Cita)
+comment6.params=
+comment6.target=java.util.List\ obtenerPacientes()
+comment7.params=
+comment7.target=java.util.List\ obtenerDoctores()
+comment8.params=
+comment8.target=java.util.List\ obtenerCitas()
+numComments=9

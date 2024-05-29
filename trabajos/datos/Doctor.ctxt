@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=Doctor
+comment1.params=nombre\ especializacion
+comment1.target=Doctor(java.lang.String,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ getNombre()
+comment3.params=nombre
+comment3.target=void\ setNombre(java.lang.String)
+comment4.params=
+comment4.target=java.lang.String\ getEspecializacion()
+comment5.params=especializacion
+comment5.target=void\ setEspecializacion(java.lang.String)
+numComments=6
